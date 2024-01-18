@@ -1,6 +1,6 @@
 "use client";
-import { useEffect, useCallback } from "react";
-import { useRouter } from "next/navigation";
+import { useEffect } from "react";
+
 import ReactGA from "react-ga";
 
 export const initGA = () => {
